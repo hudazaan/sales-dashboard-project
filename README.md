@@ -22,3 +22,7 @@ End-to-end data analysis project on retail sales data, covering data cleaning, S
 - Regional performance highlights key contributing markets
 - Sub-category analysis reveals top-performing product segments
 
+## Dashboard Preview
+
+![Dashboard](powerbi/dashboard.png)
+
